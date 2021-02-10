@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="Spring">March, April, May</string>
+    <string name="Summer">June, July, August</string>
+    <string name="Autumn">September, October, November</string>
+    <string name="Winter">December, January, February</string>
+</resources>
